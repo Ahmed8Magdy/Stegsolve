@@ -1,0 +1,3 @@
+wget http://www.caesum.com/handbook/Stegsolve.jar
+
+java -jar Stegsolve.jar 
